@@ -1,0 +1,32 @@
+<html>
+<head>
+</head>
+<body bgcolor=white>
+
+<form id="form1">
+<input type="text" id="num1" name="text1"></input><br>
+<input type="text" id="num2" name="text2"></input><br>
+<input type="text" id="num3" name="text3"></input>
+	</form>
+
+<input type="button" value="submit" onclick="add()"></input>
+
+<script type="text/javascript">
+   function add(){
+   	
+	var x= document.getElementByid("form1");
+	a = x.elements["text1"].value;
+	
+	b = x.elements["text2"].value;
+	var z = a + b;
+	document.write(a);
+	
+	
+	
+
+}
+
+
+</script>
+</body>
+</html>

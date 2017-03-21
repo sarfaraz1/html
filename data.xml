@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <?xml-stylesheet type="text/css" href="css/xmlcss.css"?>
+<userData>
+	<user id="1">
+		<name>Sarfaraz</name>
+		<email>sarfaraz@gmail.com</email>
+		<phone>8303903778</phone>
+    </user>
+
+    <user id="2">
+		<name>john</name>
+		<email>john@gmail.com</email>
+		<phone>9423198313</phone>
+    </user>
+
+    <user id="3">
+		<name>rock</name>
+		<email>rock@gmail.com</email>
+		<phone>8632458312</phone>
+    </user>
+
+
+
+</userData>
