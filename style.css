@@ -1,0 +1,22 @@
+h1{
+	text-align: center;
+}
+
+video{
+	float: left;
+}
+
+p{
+	font-family: Arial;
+    font-size: 20px;
+}
+
+h1:hover{
+	text-align: center;
+	font-size: 50px;
+}
+
+u {    
+    border-bottom: 1px dotted #000;
+    text-decoration: none;
+}
